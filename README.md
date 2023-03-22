@@ -2,7 +2,8 @@
 Pagina Inicial Landing Page
 README
 
-https://github.com/JulioSouzaADS/Projeto-LandingPage-Berserk/blob/main/src/imagens/berserk-5.jpg
+<img src="https://github.com/JulioSouzaADS/Projeto-LandingPage-Berserk/blob/main/src/imagens/berserk-5.jpg" width="60%" height="60%"/>
+
 
 Título do Projeto
 Apresentação Anime Berserk
